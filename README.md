@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Harini Srinivasan
+# Hi there, I'm Harini Srinivasan 👋
 
-# Business / Data Analyst
+## Business & Data Analyst
 
 I am a Business and Data Analyst with a strong foundation in data analysis, reporting, and process intelligence. My work focuses on transforming raw data into structured insights that support operational decision-making, performance tracking, and business process improvement.
 
@@ -38,20 +38,10 @@ I believe good analysis is not just technically correct — it needs to be under
 
 ---
 
-## Featured Projects
-
-### 🚗 Car Sales Performance Dashboard — Power BI
-An end-to-end Power BI dashboard analyzing car sales trends, revenue performance, and regional breakdowns. Built with a focus on clean data modeling, intuitive layout, and business-relevant KPIs.
-
-### 📊 Incident Data Analysis — SQL + Power BI
-Analysis of operational incident datasets to track resolution patterns, SLA compliance, and recurring failure points. Combines SQL-based data extraction with Power BI visualization for operational reporting.
-
----
-
-* 🌍  I'm based in United Arab Emirates
-* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/harini7s/)
-* ✉️  You can contact me at [harini7201@gmail.com](mailto:harini7201@gmail.com)
-* 💬  Ask me about: I turn messy data into clean dashboards and I'm always chasing the root cause.
+* 🌍  Based in United Arab Emirates
+* 🖥️  Portfolio at [LinkedIn](https://www.linkedin.com/in/harini7s/)
+* ✉️  Reach me at [harini7201@gmail.com](mailto:harini7201@gmail.com)
+* 💬  Ask me about Power BI, SQL, SLA tracking, and data-driven reporting
 
 ---
 
@@ -65,7 +55,7 @@ Analysis of operational incident datasets to track resolution patterns, SLA comp
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
   <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI" width="36" height="36" /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Microsoft Excel" title="Microsoft Excel" width="36" height="36" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" title="Microsoft Excel" width="36" height="36" /></a>
 </p>
 
 ---
